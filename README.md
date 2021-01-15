@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   <img alt="Shell" src="https://img.shields.io/badge/-Shell-1a73e8?style=flat-square&logo=shell&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-764ABC?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-311C87?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-430098?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-311C87?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-430098?style=flat-square&logo=rust&logoColor=white" />
 </p>
 
 [![Earl's github stats](https://github-readme-stats.vercel.app/api?username=edombowsky&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,14 +40,15 @@ Here are some ideas to get you started:
 
 
 ---
-[![HitCount](http://hits.dwyl.com/edombowsky/{project}.svg)](http://hits.dwyl.com/edombowsky/{project})
-![visitors](https://visitor-badge.glitch.me/badge?page_id=edombowsky.edombowsky)
 
-
-
-
-
+<div align="center">
+  [![HitCount](http://hits.dwyl.com/edombowsky/{project}.svg)](http://hits.dwyl.com/edombowsky/{project})
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=edombowsky.edombowsky)
 </div>
+
+
+
+
 <!--
 Statistics taken from here: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 Shields and badges taken from: [ShieldsIO](https://shields.io/)
