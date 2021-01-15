@@ -40,10 +40,8 @@ Here are some ideas to get you started:
 
 
 ---
-
-  [![HitCount](http://hits.dwyl.com/edombowsky/{project}.svg)](http://hits.dwyl.com/edombowsky/{project})
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=edombowsky.edombowsky)
-</div>
+[![HitCount](http://hits.dwyl.com/edombowsky/{project}.svg)](http://hits.dwyl.com/edombowsky/{project})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=edombowsky.edombowsky)
 
 
 
