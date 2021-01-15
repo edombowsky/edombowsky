@@ -2,8 +2,8 @@
 
 In short, Tech Enthusiast with passion for backend micro-services, programming languages, and libraries
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Go and Rust
+- 🔭 I’m currently working on **something cool**
+- 🌱 I’m currently learning **Go** and **Rust**
 - 💬 Ask me anything <a href="https://github.com/edombowsky/edombowsky/issues/new"><b>here</b></a><br>
 
 <!--
@@ -24,26 +24,24 @@ Here are some ideas to get you started:
 ### Things I code with
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-2088FF?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-F05032?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Scala" src="https://img.shields.io/badge/-Scala-13aa52?style=flat-square&logo=scala&logoColor=white" />
-  <img alt="Shell" src="https://img.shields.io/badge/-Shell-1a73e8?style=flat-square&logo=shell&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-764ABC?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-311C87?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-311C87?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-430098?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Scala" src="https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/-Shell-FFD500?style=flat-square&logo=shell&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 </p>
 
-[![Earl's github stats](https://github-readme-stats.vercel.app/api?username=edombowsky&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edombowsky&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=edombowsky&show_icons=true&theme=tokyonight" alt="Earl's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edombowsky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-
----
-[![HitCount](http://hits.dwyl.com/edombowsky/{project}.svg)](http://hits.dwyl.com/edombowsky/{project})
-![visitors](https://visitor-badge.glitch.me/badge?page_id=edombowsky.edombowsky)
-
-
+[![HitCount](http://hits.dwyl.com/edombowsky/edombowsky.svg)](http://hits.dwyl.com/edombowsky/edombowsky)
 
 
 <!--
