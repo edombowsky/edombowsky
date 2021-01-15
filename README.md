@@ -55,4 +55,6 @@ Simple icons taken from here: [SimpleIcons](https://simpleicons.org/)
 Some intereting articles to get ideas about this page
     [How to Create a Self-Updating README.md for your GitHub Profile](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)
     [How to create beatiful Github profile README.md](https://fullyunderstood.com/how-to-create-beautiful-github-profile-readmemd/)
+    [How to Build creative ReadME for your Github Profile](https://blog.codewithgauri.tech/blog/how-to-build-creative-readme-for-your-github-profile/)
+    [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 -->
