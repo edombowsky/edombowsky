@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ### Things I code with
-<p>
+<p align=left>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 </p>
 
-<p align=center>
+<p align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=edombowsky&show_icons=true&theme=tokyonight" alt="Earl's github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edombowsky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
