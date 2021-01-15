@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Things I code with
+### Languages and Tools I use
 <p align=left>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -34,6 +34,10 @@ Here are some ideas to get you started:
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+  <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 </p>
 
 <p align=left>
