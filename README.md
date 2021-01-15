@@ -41,8 +41,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edombowsky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-[![HitCount](http://hits.dwyl.com/edombowsky/edombowsky.svg)](http://hits.dwyl.com/edombowsky/edombowsky)
-
 
 <!--
 Statistics taken from here: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
