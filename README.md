@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages and Tools I use
+---
+
+### 🧰 Languages and Tools I use
 <p align=left>
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -61,14 +63,17 @@ Here are some ideas to get you started:
   <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
   <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
-  --?
+  -->
 </p>
+
+#
+
+### 📊 Stats
 
 <p align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=edombowsky&show_icons=true&theme=tokyonight" alt="Earl's github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edombowsky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 <!--
 Statistics taken from here: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
