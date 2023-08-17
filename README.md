@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧰 Languages and Tools I use
-
+<h2 align="left">🧰 Languages, Tools, and Frameworks I use</h2>
+<div align=left>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,linux,docker,scala,azure,postgres,go,kubernetes,c,cpp,idea,mongodb,perl,react,visualstudio,vscode,rust,kafka,rabbitmq,postman,bash,md&theme=dark"/>
+</div>
+<!--
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -45,7 +48,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 <img align="left" alt="Apache Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-
+-->
 <!--                                    
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />/
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -64,16 +67,21 @@ Here are some ideas to get you started:
 <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
 -->
 
-<br />
+###
 
-#
+<h2 align="left">📊 Stats</h2>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=edombowsky&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=edombowsky&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edombowsky&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
+</div>
 
-### 📊 Stats
 
-<p align=left>
+<!--p align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=edombowsky&show_icons=true&theme=tokyonight" alt="Earl's github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edombowsky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p-->
 
 <!--
 Statistics taken from here: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
