@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">🧰 Languages, Tools, and Frameworks I use</h2>
 <div align=left>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,linux,docker,scala,azure,postgres,go,kubernetes,c,cpp,idea,mongodb,perl,react,visualstudio,vscode,rust,kafka,rabbitmq,postman,bash,md&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,linux,docker,scala,azure,postgres,go,kubernetes,c,cpp,idea,mongodb,perl,visualstudio,vscode,rust,python,kafka,rabbitmq,postman,bash,md&theme=dark"/>
 </div>
 <!--
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -43,12 +43,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Intellij" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Perl" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 <img align="left" alt="Apache Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 -->
 <!--                                    
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />/
