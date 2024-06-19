@@ -3,7 +3,7 @@
 In short, Tech Enthusiast with passion for backend micro-services, programming languages, and libraries
 
 - 🔭 I’m currently working on **something cool**
-- 🌱 I’m currently learning **Go**, **Rust**, and **React**
+- 🌱 I’m currently learning **Rust** and **Python**
 - 💬 Ask me anything <a href="https://github.com/edombowsky/edombowsky/issues/new"><b>here</b></a><br>
 
 <!--
