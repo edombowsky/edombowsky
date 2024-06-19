@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h2 align="left">🧰 Languages, Tools, and Frameworks I use</h2>
 <!-- https://github.com/devicons/devicon -->
 <div align=left>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,linux,docker,scala,azure,postgres,go,kubernetes,c,cpp,idea,mongodb,perl,visualstudio,vscode,sublime,rust,python,kafka,rabbitmq,postman,bash,md,html,css,github,kali,ubuntu,obsidian" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,linux,docker,scala,azure,postgres,go,kubernetes,c,cpp,idea,mongodb,perl,visualstudio,vscode,sublime,rust,python,kafka,rabbitmq,postman,bash,md,html,css,github,kali,ubuntu,obsidian&perline=12" />
 </div>
 <!--
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
