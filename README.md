@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 ---
 
 <h2 align="left">🧰 Languages, Tools, and Frameworks I use</h2>
+<h2 align="left">🧰 Programming Languages</h2>
+<div align=left>
+  <img src="https://skillicons.dev/icons?i=java,scala,goc,cpp,perl,rust,python,bash,html,css,perline=12" />
+</div>
+
 <!-- https://github.com/devicons/devicon -->
 <div align=left>
   <img src="https://skillicons.dev/icons?i=java,spring,maven,git,linux,docker,scala,azure,postgres,go,kubernetes,c,cpp,idea,mongodb,perl,visualstudio,vscode,sublime,rust,python,kafka,rabbitmq,postman,bash,md,html,css,github,kali,ubuntu,obsidian&perline=12" />
