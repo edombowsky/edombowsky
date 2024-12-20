@@ -23,83 +23,36 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="left">🧰 Languages, Tools, and Frameworks I use</h2>
-<h2 align="left">🧰 Programming Languages</h2>
-<div align=left>
-  <img src="https://skillicons.dev/icons?i=java,scala,go,cpp,perl,rust,python,bash,html,css,markdown&perline=12" />
-</div>
-<h2 align="left">🧰 Frameworks and Libraries</h2>
-<div align=left>
-  <img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq&perline=12" />
-<h2 align="left">🧰 Databases and Cloud Hosting</h2>
-<div align=left>
-  <img src="https://skillicons.dev/icons?i=azure,postgres,mongodb,&perline=12" />
-</div>
-<h2 align="left">🧰 Software and Tools</h2>
-<div align=left>
-  <img src="https://skillicons.dev/icons?i=maven,git,linux,docker,idea,visualstudio,vscode,sublime,postman,github,kali,ubuntu,obsidian&perline=12" />
-</div>
+## 🛠 My Favourite Tools
 
-<!-- https://github.com/devicons/devicon -->
-<div align=left>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,linux,docker,scala,azure,postgres,go,kubernetes,c,cpp,idea,mongodb,perl,visualstudio,vscode,sublime,rust,python,kafka,rabbitmq,postman,bash,md,html,css,github,kali,ubuntu,obsidian&perline=12" />
-</div>
-<!--
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Scala" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Intellij" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Perl" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<img align="left" alt="Apache Kafka" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
--->
-<!--                                    
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />/
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img alt="Scala" src="https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
-<img alt="Shell" src="https://img.shields.io/badge/-Shell-FFD500?style=flat-square&logo=shell&logoColor=white" />
-<img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img alt="RabbitMQ" src="https://img.shields.io/badge/-Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-<img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
-<img alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
-<img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
--->
+<h3 align="left">👨‍💻 Programming Languages</h2>
+<p>
+<img src="https://skillicons.dev/icons?i=java,scala,go,rust,c,cpp,perl,python,bash,html,css,markdown&perline=12" />
+</p>
+<h3 align="left">🧰 Frameworks and Libraries</h2>
+<p>
+<img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq,docker,kubernetes&perline=12" />
+</p>
+<h3 align="left">🗄️ Databases and Cloud Hosting</h2>
+<p>
+<img src="https://skillicons.dev/icons?i=azure,postgres,mongodb,&perline=12" />
+</p>
+<h3 align="left">💻 Software and Tools</h2>
+<p>
+<img src="https://skillicons.dev/icons?i=maven,git,linux,idea,visualstudio,vscode,sublime,postman,github,kali,ubuntu,obsidian&perline=12" />
+</p>
 
-###
+<br/>
 
-<h2 align="left">📊 Stats</h2>
+ <!-- Github Activities -->
+## 📊 Stats</h2>
+
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=edombowsky&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=edombowsky)](https://git.io/streak-stats)
+  <h3>💻 GitHub Profile Stats</h3>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=edombowsky&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
+  <h3>💭 Languages Used</h3>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edombowsky&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
 </div>
-
-
-<!--p align=left>
-  <img src="https://github-readme-stats.vercel.app/api?username=edombowsky&show_icons=true&theme=tokyonight" alt="Earl's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edombowsky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p-->
 
 <!--
 Statistics taken from here: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
@@ -112,4 +65,5 @@ Some intereting articles to get ideas about this page
     [How to create beatiful Github profile README.md](https://fullyunderstood.com/how-to-create-beautiful-github-profile-readmemd/)
     [How to Build creative ReadME for your Github Profile](https://blog.codewithgauri.tech/blog/how-to-build-creative-readme-for-your-github-profile/)
     [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+    [How I Improved My GitHub Profile Readme](https://blog.suriyadisha.com/how-i-improved-my-github-profile-readme)
 -->
