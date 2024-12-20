@@ -28,10 +28,16 @@ Here are some ideas to get you started:
 <div align=left>
   <img src="https://skillicons.dev/icons?i=java,scala,go,cpp,perl,rust,python,bash,html,css,markdown&perline=12" />
 </div>
-<br/>
 <h2 align="left">🧰 Frameworks and Libraries</h2>
 <div align=left>
   <img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq&perline=12" />
+<h2 align="left">🧰 Databases and Cloud Hosting</h2>
+<div align=left>
+  <img src="https://skillicons.dev/icons?i=azure,postgres,mongodb,&perline=12" />
+</div>
+<h2 align="left">🧰 Software and Tools</h2>
+<div align=left>
+  <img src="https://skillicons.dev/icons?i=maven,git,linux,docker,idea,visualstudio,vscode,sublime,postman,github,kali,ubuntu,obsidian&perline=12" />
 </div>
 
 <!-- https://github.com/devicons/devicon -->
