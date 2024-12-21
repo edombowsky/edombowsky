@@ -47,13 +47,25 @@ Here are some ideas to get you started:
  <!-- Github Activities -->
 ## 📊 Stats</h2>
 
+<!--
 <div align=center>
   <h3>💻 GitHub Profile Stats</h3>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=edombowsky&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
   <h3>💭 Languages Used</h3>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edombowsky&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
+  <img width=325 align="center" src="https://github-readme-stats-git-master-edombowskys-projects.vercel.app/api/top-langs/?username=edombowsky&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
 </div>
+-->
 
+<!-- More idiomatic way of doing this -->
+[![Earl's GitHub stats](https://github-readme-stats-git-master-edombowskys-projects.vercel.app/api?username=edombowsky&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10)](https://github.com/edobowsky/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-edombowskys-projects.vercel.app/api/top-langs/?username=edombowsky&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/edombowsky/github-readme-stats)
+
+<!--
+<details>
+<summary>GitHub Stats</summary>
+<img width=390 src="https://github-readme-stats-git-master-edombowskys-projects.vercel.app/api?username=edombowsky&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+</details>
+-->
 <!--
 Statistics taken from here: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 Shields and badges taken from: [ShieldsIO](https://shields.io/)
